@@ -18,5 +18,4 @@ npm start
 ## Run Frontend
 ```bash
 cd Frontend
-npm install
-npm start or node server.js
+npm run dev
